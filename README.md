@@ -13,3 +13,5 @@ Diego Moreira - Ciência da Computação - PUC Minas | Computer Science - PUC Mi
 
 ### 🚀 Projetos | Projects:
 - [Jogo 2D em JAVA](https://github.com/diegodmr1/My2DGame) | [2D Game in JAVA](https://github.com/diegodmr1/My2DGame)
+
+### 💻 Trabalhos Acadêmicos | Academic Work:
