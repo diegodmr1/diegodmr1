@@ -1,8 +1,9 @@
 # Olá! Hi there!
 
 Diego Moreira - Ciência da Computação - PUC Minas | Computer Science - PUC Minas
+Ansioso para aprender | Eager to learn
 
-- Português | English
+Falo Português | I speak English
 
 ### 🛠 Linguagens | Languages:
 - Python, JAVA, C, C++, C#, JavaScript, SQL
