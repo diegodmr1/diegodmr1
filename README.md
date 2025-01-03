@@ -2,6 +2,8 @@
 
 Diego Moreira - Ciência da Computação - PUC Minas | Computer Science - PUC Minas
 
+- Portuguese and English
+
 ### 🛠 Linguagens | Languages:
 - Python, JAVA, C, C++, C#, JavaScript, SQL
 
